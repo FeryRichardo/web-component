@@ -19,3 +19,6 @@ Atribut yang tersedia:
 </image-figure>`
 
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6cc65c7c-3166-409c-b481-60ae68b70d71" />
+
+
+ Pada Gambar diatas, saya belum mengisi atribut pada custom element yang saya buat, sehingga ketika dirender yang tampil hanyalah null
